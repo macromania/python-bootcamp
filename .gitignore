@@ -163,3 +163,10 @@ notebooks/data.txt
 
 # download models from original source pointed at Readme
 *.h5
+*.pth
+
+# ignore images detected
+**/input/*.jpg
+**/output/*.jpg
+
+.DS_Store

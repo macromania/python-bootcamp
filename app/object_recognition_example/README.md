@@ -1,10 +1,10 @@
 # Object Recognition Example
 
-Simple object recognition example using [OpenCV](https://opencv.org/) and [TensorFlow](https://www.tensorflow.org/).
+Simple object recognition example using [ImageAI](https://imageai.readthedocs.io/en/latest/).
 
 It uses following model for object recognition:
 
-<https://github.com/OlafenwaMoses/ImageAI/releases/download/essentials-v5/resnet50_coco_best_v2.1.0.h5>
+<https://github.com/OlafenwaMoses/ImageAI/releases/download/3.0.0-pretrained/retinanet_resnet50_fpn_coco-eeacb38b.pth/>
 
 ## Local Environment
 
