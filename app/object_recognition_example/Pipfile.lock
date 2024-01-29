@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "83c6d275ec6d9184b86a433b1836881e18703085deec08c92bf3782cef721b23"
+            "sha256": "a2b638392c1668d67b26cd885b9496e4ae269766f4d470fd1d72dd7f74efdd79"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -281,6 +281,14 @@
             "markers": "python_version >= '3.5'",
             "version": "==3.6"
         },
+        "imageai": {
+            "hashes": [
+                "sha256:204e065ecb051bce50e7202446b4880ec6517288c4799c1a6a8c055f2e93b28b",
+                "sha256:b9f821b5c9138514169527129771a6105ae213bc0e2df471d55e43a1fd36d841"
+            ],
+            "index": "pypi",
+            "version": "==3.0.3"
+        },
         "importlib-metadata": {
             "hashes": [
                 "sha256:4805911c3a4ec7c3966410053e9ec6a1fecd629117df5adee56dfc9432a1081e",
@@ -419,7 +427,7 @@
                 "sha256:ecde0f8adef7dfdec993fd54b0f78183051b6580f606111a6d789cd14c61ea0c",
                 "sha256:f21c442fdd2805e91799fbe044a7b999b8571bb0ab0f7850d0cb9641a687092b"
             ],
-            "markers": "python_version < '3.10' and platform_system == 'Darwin' and platform_machine == 'arm64'",
+            "markers": "python_version >= '3.8'",
             "version": "==1.24.3"
         },
         "oauthlib": {
